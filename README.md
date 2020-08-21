@@ -1,4 +1,4 @@
-# mkignore
+# ppdir
 **Pretty print a directory structure as a tree**
 
 ### Installation
